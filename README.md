@@ -3,7 +3,7 @@
 <h1>Sup' 👋</h1>
 <h3>I'm Julien Gelles and here is my second Epitech dedicated account.</h3>
 </p>
-<img align="right" alt="Coding" width="200" src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif">
+<img align="right" alt="Coding" width="200" src="https://pa1.aminoapps.com/6355/65d1db88473aeb32856d5ad08e9c4615cc76a374_hq.gif">
 
 - 🔭 Feel free to explore my primary personal account: [Julien-Gelles](https://github.com/Julien-Gelles)
 
